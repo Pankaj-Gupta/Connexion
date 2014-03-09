@@ -1,4 +1,4 @@
-Author : Pankaj Gupta, Satyam KUmar Shivam, Ritesh, Varun KUmar
+Author : Pankaj Gupta, Satyam Kumar Shivam, Ritesh, Varun Kumar
 
 This program was written in Yahoo HackU'13 (IIT Kanpur). 
 
